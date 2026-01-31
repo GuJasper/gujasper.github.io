@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jagger's profile"
+title                    : "Jasper's profile"
 description              : "Focus on Computer Vision, Machine Learning, and Deep Learning"
-repository               : "https://github.com/JaggerGu/JaggerGu.github.io"
+repository               : "https://github.com/GuJasper/GuJasper.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jagger Gu (顾稼泽)"
+  name             : "Jasper Gu (顾稼泽)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Xidian University"
   location         : "Shannxi, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=hHNo4i0AAAAJ"
-  email            : "gusmart@163.com"
+  email            : "gujasper@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
